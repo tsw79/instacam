@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Rock+Salt|Shadows+Into+Light|Cedarville+Cursive|Great+Vibes|Cookie|Arizonia|Pacifico|Merienda+One|Lobster+Two|Oleo+Script');
+
+/*
+* Signature styles
+*/
+.sig1  { font-size: 1.2em;  color: #5A67D8; font-family: 'Shadows Into Light', cursive; font-size: 1.2em; }
+.sig2  { font-size: 0.8em;  color: #5A67D8; font-family: 'Rock Salt', cursive; }
+.sig3  { font-size: 1.05em; color: #5A67D8; font-family: 'Cedarville Cursive', cursive; }
+.sig4  { font-size: 1.05em; color: #5A67D8; font-family: 'Great Vibes', cursive; }
+.sig5  { font-size: 1.2em;  color: #5A67D8; font-family: 'Cookie', cursive; }
+.sig6  { font-size: 1.2em;  color: #5A67D8; font-family: 'Arizonia', cursive; }
+.sig7  { font-size: 1.1em;  color: #ed8936; font-family: 'Pacifico', cursive; color: rgba(237,137,54,var(--bg-opacity)); }
+.sig8  { font-size:  .9em;  color: #5A67D8; font-family: 'Merienda One', cursive; }
+.sig9  { font-size: 20px;  color: #000000; font-family: 'Lobster Two', cursive; font-weight: 800; }
+.sig10 { font-size: .9em;  color: #5A67D8; font-family: 'Oleo Script', cursive; }
