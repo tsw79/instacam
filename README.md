@@ -1,3 +1,7 @@
+<p style="padding: 3px; border: 1px solid #ccc; border-radius: 2.8px;">
+  <img src="./Screenshot1.png" />
+</p>
+
 # Instacam - An instagram-clone
 
 An instagram-clone built with PHP Laravel, Javascriopt and CSS.
